@@ -1,1 +1,2 @@
-HTML-i ja tailwindi töö
+# Tailwind + HTML
+Learnig how to use Tailwind
